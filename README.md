@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="center"><img src="https://gpvc.arturio.dev/AstraaDev" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Forks"></a>
+<p align="center"><a href="https://dsc.gg/astraadev" target="_blank"><img src="https://discordapp.com/api/guilds/869346091743707206/widget.png?style=shield" alt="shield.png"></a></p></p>
 
-<!--
-**Harrsn/harrsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+print(f'Follow {harrsn} on Github')
+```
 
-Here are some ideas to get you started:
+```python
+       OS  :  nt10
+   Python  :  python 3.9.12
+Languages  :  Python, Java, Node, Batch
+  Discord  :  937882877390094366
+   Server  :  924957515895160842
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+Knowledge is power.
+```
+
+<a href="https://discord.gg/Thunder2k" target="_blank"><img src="https://github.com/harrsn/harrsn/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
