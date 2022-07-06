@@ -20,7 +20,12 @@ Knowledge is power.
 ```
 
 <a href="https://discord.gg/Thunder2k" target="_blank"><img src="https://github.com/Harrsn/harrsn/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harrsn&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrsn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
