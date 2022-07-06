@@ -1,7 +1,7 @@
-<p align="center"><img src="https://gpvc.arturio.dev/AstraaDev" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/AstraaDev" alt="Profile Forks"></a>
-<p align="center"><a href="https://dsc.gg/astraadev" target="_blank"><img src="https://discordapp.com/api/guilds/869346091743707206/widget.png?style=shield" alt="shield.png"></a></p></p>
+<p align="center"><img src="https://gpvc.arturio.dev/Harrsn" alt="Visitors"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Harrsn" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Harrsn" alt="Profile Forks"></a>
+<p align="center"><a href="https://discord.gg/Thunder2k" target="_blank"><img src="https://discordapp.com/api/guilds/869346091743707206/widget.png?style=shield" alt="shield.png"></a></p></p>
 
 ```python
 print(f'Follow {harrsn} on Github')
@@ -19,4 +19,4 @@ Languages  :  Python, Java, Node, Batch
 Knowledge is power.
 ```
 
-<a href="https://discord.gg/Thunder2k" target="_blank"><img src="https://github.com/harrsn/harrsn/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="https://discord.gg/Thunder2k" target="_blank"><img src="https://github.com/Harrsn/Harrsn/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
