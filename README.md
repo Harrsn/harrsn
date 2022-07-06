@@ -32,5 +32,5 @@ Knowledge is power.
 ---
 
 <p align="center">
-  <img width="800" src="https://github.com/Harrsn/harrsn/blob/main/dino.gif" alt="Dino">
+  <img width="1000" src="https://github.com/Harrsn/harrsn/blob/main/dino.gif" alt="Dino">
 </p>
