@@ -19,8 +19,6 @@ Languages  :  Python, Java, Node, Batch
 Knowledge is power.
 ```
 
-<a href="https://discord.gg/Thunder2k" target="_blank"><img src="https://github.com/Harrsn/harrsn/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
-
 ---
 
 ### :fire: My Stats :
