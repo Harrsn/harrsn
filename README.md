@@ -30,4 +30,4 @@ Knowledge is power.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrsn)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+![Dino](https://github.com/Harrsn/harrsn/blob/main/dino.gif)
