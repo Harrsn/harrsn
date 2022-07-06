@@ -19,6 +19,6 @@ Languages  :  Python, Java, Node, Batch
 Knowledge is power.
 ```
 
-<a href="https://discord.gg/Thunder2k" target="_blank"><img src="https://raw.githubusercontent.com/Harrsn/Harrsn/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
-![github contribution grid snake animation](https://raw.githubusercontent.com/Harrsn/Harrsn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Harrsn/Harrsn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<a href="https://discord.gg/Thunder2k" target="_blank"><img src="https://raw.githubusercontent.com/Harrsn/harrsn/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+![github contribution grid snake animation](https://raw.githubusercontent.com/Harrsn/harrsn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Harrsn/harrsn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
