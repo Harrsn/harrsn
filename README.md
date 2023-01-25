@@ -9,7 +9,7 @@ print(f'Follow {harrsn} on Github')
 ```python
        OS  :  nt10
    Python  :  python 3.9.12
-Languages  :  Python, Java, Node, Batch
+Languages  :  Python, Java, Lua, Batch
   Discord  :  937882877390094366
 ```
 
