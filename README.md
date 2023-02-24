@@ -47,6 +47,11 @@ Knowledge is power.
 
 ---
 
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Harrsn/harrsn/d7cc93644a8be865652d083ec8d61387dd51b3f9/images/marquee.svg" />
+<br />
+
 <p align="center">
   <img width="1000" src="https://github.com/Harrsn/harrsn/blob/main/dino.gif" alt="Dino">
 </p>
