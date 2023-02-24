@@ -51,18 +51,14 @@ Knowledge is power.
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Harrsn/harrsn/d7cc93644a8be865652d083ec8d61387dd51b3f9/images/marquee.svg" />
 <br />
-
-<p align="center">
-  <img width="1000" src="https://github.com/Harrsn/harrsn/blob/main/dino.gif" alt="Dino">
-</p>
        
 ![Visitor Count](https://profile-counter.glitch.me/harrsn/count.svg)
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<img src="https://raw.githubusercontent.com/Harrsn/harrsn/main/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/Harrsn/harrsn/main/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/Harrsn/harrsn/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
