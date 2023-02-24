@@ -49,6 +49,8 @@ Knowledge is power.
 
 <h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/Harrsn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Harrsn" /></a></p><br><br>
 
+---
+
 <div align="center">
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Harrsn/harrsn/d7cc93644a8be865652d083ec8d61387dd51b3f9/images/marquee.svg" />
@@ -64,5 +66,3 @@ Knowledge is power.
 <img src="https://raw.githubusercontent.com/Harrsn/harrsn/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
-
----
