@@ -42,9 +42,9 @@ Knowledge is power.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrsn)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<p align="center"> 
+
 <h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/Harrsn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Harrsn" /></a></p><br><br>
-</p>
+
 ---
 
 <div align="center">
