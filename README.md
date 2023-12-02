@@ -1,8 +1,8 @@
-<p align="center">
-<img src="https://img.shields.io/badge/-@harrsn-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@harrsn" alt="@harrsn"></a>
-<img src="https://img.shields.io/badge/-@harrsn_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harrsn_" alt="@harrsn_"></a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/harrsn/count.svg" />
+</p>
 
-<p align="center"><img src="https://gpvc.arturio.dev/Harrsn" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Harrsn" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Harrsn" alt="Profile Forks"></a>
 
