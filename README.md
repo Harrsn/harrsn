@@ -8,9 +8,8 @@ print(f'Follow {harrsn} on Github')
 ```
 
 ```python
-       OS  :  nt10
-   Python  :  python 3.9.12
-Languages  :  Python, Java, Lua, Batch
+       OS  :  nt10, Ubuntu, Windows 10
+Languages  :  C#, Python, Java
   Discord  :  937882877390094366
 ```
 
