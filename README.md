@@ -8,9 +8,8 @@ print(f'Follow {harrsn} on Github')
 ```
 
 ```python
-       OS  :  nt10, Ubuntu, Windows 10
-Languages  :  C#, Python, Java
-  Discord  :  937882877390094366
+       OS  :  Ubuntu, Windows 10
+Languages  :  Python, Java
 ```
 
 ```json
